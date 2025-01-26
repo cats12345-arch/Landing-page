@@ -77,9 +77,10 @@ body {
     border-radius: 4px;
     border: 0;
     width: 128px;
-    
 }
 
-
-
-
+.introduction{
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+}
